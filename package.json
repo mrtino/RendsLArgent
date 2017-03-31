@@ -1,0 +1,14 @@
+{
+    "name": "Rends l'argent !",
+    "version": "1.0.0",
+    "description": "Un bot (basé sur Twitter-Posting-Bot) qui appelle les politiciens à rendre l'argent.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "author": "",
+    "license": "The Unlicence",
+    "dependencies": {
+        "twit": "^2.2.5"
+    }
+}
