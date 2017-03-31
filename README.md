@@ -1,4 +1,4 @@
-# RendsLArgent
+# Rends l'argent !
 Bot Twitter qui rappelle aux politiciens de rendre l'argent.
 
 Pour l'utiliser, rends-toi sur apps.twitter.com, crée une app (et un compte Twitter associé avant).
